@@ -1,5 +1,5 @@
 # smidges-soul-pack
-A texture pack that adds soul and maka as the netherite sword and totem
+A texture pack that adds soul and maka from soul eater as the netherite sword and totem
 
 ## needs optifine (or any mods that enable CIT and 32x textures)
 
